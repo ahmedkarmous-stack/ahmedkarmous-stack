@@ -1,152 +1,199 @@
+<!-- ══════════════════ HEADER ══════════════════ -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Ahmed%20Karmous&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Junior%20Web%20Developer%20%7C%20EPT&descAlignY=55&descSize=18" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f2027,50:2c5364,100:22d3ee&height=230&section=header&text=Ahmed%20Karmous&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Junior%20Web%20Developer%20%C2%B7%20EPT%20%C2%B7%20Tunisia&descAlignY=58&descSize=17" width="100%" />
 
 <a href="https://ahmedkarmous-stack.github.io/my-portfolio/">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=22D3EE&center=true&vCenter=true&width=600&lines=Junior+Web+Developer+%F0%9F%91%8C;Building+things+for+the+web;Python+%7C+JavaScript+%7C+TypeScript;Always+learning%2C+always+shipping" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&duration=2800&pause=900&color=22D3EE&center=true&vCenter=true&width=620&lines=Front-end+developer+in+the+making;JavaScript+%C2%B7+CSS+%C2%B7+HTML;Turning+designs+into+working+interfaces;Learning+in+public%2C+shipping+every+week" alt="Typing SVG" />
 </a>
-
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=ahmedkarmous-stack&label=Profile%20Views&color=22d3ee&style=flat-square" alt="profile views" />
-<img src="https://img.shields.io/github/followers/ahmedkarmous-stack?label=Followers&style=flat-square&color=22d3ee" alt="followers" />
-
-</div>
-
----
-
-## 🧑‍💻 About Me
-
-```typescript
-const ahmed = {
-  name: "Ahmed Karmous jedaa",
-  pronouns: "he/him",
-  role: "Junior Web Developer",
-  school: "EPT",
-  location: "Tunisia 🇹🇳",
-  code: ["Python", "JavaScript", "TypeScript", "HTML", "CSS"],
-  currentlyLearning: ["React", "Node.js", "System Design"],
-  funFact: "I debug more than I sleep ☕",
-};
-```
-
-- 🔭 Currently building projects at **[my portfolio](https://ahmedkarmous-stack.github.io/my-portfolio/)**
-- 🌱 Learning **modern web development** — frameworks, APIs, and clean architecture
-- 💬 Ask me about **web dev, Python, or anything code**
-- 📫 Reach me at **ahmedkarmous23@gmail.com**
-- ⚡ Fun fact: *the best code is the code you deleted*
-
----
-
-## 🛠️ Tech Stack
-
-<div align="center">
-
-### Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-### Frameworks & Libraries
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-
-### Tools & Platforms
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-
-</div>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ahmedkarmous-stack&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=22d3ee&icon_color=22d3ee" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedkarmous-stack&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=22d3ee&langs_count=8" />
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=ahmedkarmous-stack&theme=tokyonight&hide_border=true&background=0D1117&ring=22d3ee&fire=22d3ee&currStreakLabel=22d3ee" alt="GitHub Streak" />
+<a href="https://ahmedkarmous-stack.github.io/my-portfolio/"><img src="https://img.shields.io/badge/🌐_Portfolio-0f2027?style=for-the-badge&labelColor=22d3ee&color=0f2027" /></a>
+<a href="https://www.linkedin.com/in/ahmed-karmous-jedaa-497752385/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:ahmedkarmous23@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=ahmedkarmous-stack&label=Visitors&color=22d3ee&style=flat-square" />
+<img src="https://img.shields.io/github/followers/ahmedkarmous-stack?label=Followers&style=flat-square&color=22d3ee&labelColor=0f2027" />
+<img src="https://img.shields.io/badge/Focus-Front--end-22d3ee?style=flat-square&labelColor=0f2027" />
+<img src="https://img.shields.io/badge/Open_to-Internships-16a34a?style=flat-square&labelColor=0f2027" />
 
 </div>
 
----
+<img src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/footer.svg" width="100%" />
 
-## 🏆 Trophies
+<!-- ══════════════════ ABOUT ══════════════════ -->
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="28"> &nbsp;Who am I
+
+> Engineering student at **EPT** who fell for the front-end.
+> I like the moment a flat mockup starts responding to a click.
+
+```js
+const ahmed = {
+  role      : "Junior Web Developer",
+  school    : "École Polytechnique de Tunisie",
+  location  : "Tunisia 🇹🇳",
+  writes    : ["JavaScript", "CSS", "HTML"],
+  learning  : ["React", "Node.js", "TypeScript"],
+  building  : "Recruity — a recruitment tool",
+  askMeAbout: ["front-end", "responsive layouts", "vanilla JS"],
+  motto     : "Ship it, then make it beautiful.",
+};
+```
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**🎯 Right now**
+- Building **Recruity**, a recruitment app
+- Polishing my **[portfolio site](https://ahmedkarmous-stack.github.io/my-portfolio/)**
+- Studying at **EPT**
+
+</td>
+<td width="50%" valign="top">
+
+**🌱 Next up**
+- Going deeper on **React**
+- Back-end with **Node.js**
+- Typed JS with **TypeScript**
+
+</td>
+</tr>
+</table>
+
+<img src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/footer.svg" width="100%" />
+
+<!-- ══════════════════ STACK ══════════════════ -->
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28"> &nbsp;My toolbox
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=ahmedkarmous-stack&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10" alt="trophies" />
+**Writing every day**
+
+<img src="https://skillicons.dev/icons?i=js,html,css,git,github,vscode&theme=dark" height="55" />
+
+**Learning right now**
+
+<img src="https://skillicons.dev/icons?i=react,nodejs,ts,tailwind&theme=dark" height="55" />
+
+**Also touched**
+
+<img src="https://skillicons.dev/icons?i=python,mysql,figma,linux&theme=dark" height="55" />
 
 </div>
 
----
+<img src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/footer.svg" width="100%" />
 
-## 📈 Contribution Graph
+<!-- ══════════════════ PROJECTS ══════════════════ -->
+## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="26"> &nbsp;Things I've built
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🌐 [my-portfolio](https://ahmedkarmous-stack.github.io/my-portfolio/)
+My personal site, live on GitHub Pages.
+Responsive layout built from scratch — no framework.
+
+`JavaScript` &nbsp;`CSS` &nbsp;`HTML`
+
+[**Visit site →**](https://ahmedkarmous-stack.github.io/my-portfolio/) &nbsp;·&nbsp; [Code](https://github.com/ahmedkarmous-stack/my-portfolio)
+
+</td>
+<td width="50%" valign="top">
+
+### 🌱 [projet-eco](https://github.com/ahmedkarmous-stack/projet-eco)
+An eco-themed web project — my largest
+JavaScript codebase so far.
+
+`JavaScript` &nbsp;`HTML`
+
+[**View code →**](https://github.com/ahmedkarmous-stack/projet-eco)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🛡️ [Fey-Air-Sheild](https://github.com/ahmedkarmous-stack/Fey-Air-Sheild)
+A web interface experiment, built to
+practise structure and styling.
+
+`HTML` &nbsp;`CSS`
+
+[**View code →**](https://github.com/ahmedkarmous-stack/Fey-Air-Sheild)
+
+</td>
+<td width="50%" valign="top">
+
+### 🔒 Recruity *(private)*
+A recruitment tool I'm actively building —
+my main project right now.
+
+`Python`
+
+*Opening up once it's presentable.*
+
+</td>
+</tr>
+</table>
+
+<img src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/footer.svg" width="100%" />
+
+<!-- ══════════════════ STATS ══════════════════ -->
+## <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="26"> &nbsp;By the numbers
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ahmedkarmous-stack&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=22d3ee&line=22d3ee&point=ffffff&area=true" width="100%" alt="activity graph" />
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=ahmedkarmous-stack&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=22d3ee&icon_color=22d3ee&text_color=c9d1d9" />
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedkarmous-stack&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=22d3ee&text_color=c9d1d9&langs_count=6&exclude_repo=MoneyPrinterTurbo,gallery,swagger-ui,unreal-mcp,courses" />
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=ahmedkarmous-stack&theme=tokyonight&hide_border=true&background=0D1117&ring=22d3ee&fire=22d3ee&currStreakLabel=22d3ee&sideLabels=c9d1d9&dates=8b949e" />
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ahmedkarmous-stack&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=22d3ee&line=22d3ee&point=ffffff&area=true&radius=8" width="98%" />
 
 </div>
 
----
+<img src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/footer.svg" width="100%" />
 
-## 🐍 Watch My Contributions Get Eaten
-
+<!-- ══════════════════ SNAKE ══════════════════ -->
 <div align="center">
+
+### 🐍 &nbsp;My commits, being eaten
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ahmedkarmous-stack/ahmedkarmous-stack/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ahmedkarmous-stack/ahmedkarmous-stack/output/github-contribution-grid-snake.svg" />
-  <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/ahmedkarmous-stack/ahmedkarmous-stack/output/github-contribution-grid-snake.svg" />
+  <img alt="contribution snake" src="https://raw.githubusercontent.com/ahmedkarmous-stack/ahmedkarmous-stack/output/github-contribution-grid-snake.svg" width="100%" />
 </picture>
 
 </div>
 
----
+<img src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/footer.svg" width="100%" />
 
-## 🌐 Connect With Me
-
+<!-- ══════════════════ FOOTER ══════════════════ -->
 <div align="center">
 
-<a href="https://ahmedkarmous-stack.github.io/my-portfolio/">
-  <img src="https://img.shields.io/badge/Portfolio-22d3ee?style=for-the-badge&logo=googlechrome&logoColor=white" alt="portfolio" />
-</a>
-<a href="https://www.linkedin.com/in/ahmed-karmous-jedaa-497752385/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
-</a>
-<a href="mailto:ahmedkarmous23@gmail.com">
-  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="email" />
-</a>
-<a href="https://github.com/ahmedkarmous-stack">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="github" />
-</a>
-
-</div>
-
----
-
-<div align="center">
-
-### 💡 Random Dev Quote
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="quote" />
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true" />
 
 <br/><br/>
 
-**⭐ From [ahmedkarmous-stack](https://github.com/ahmedkarmous-stack) — thanks for visiting!**
+### Let's build something
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer" width="100%" />
+<a href="https://ahmedkarmous-stack.github.io/my-portfolio/"><img src="https://img.shields.io/badge/See_my_work-22d3ee?style=for-the-badge&logoColor=white" /></a>
+<a href="mailto:ahmedkarmous23@gmail.com"><img src="https://img.shields.io/badge/Say_hello-0f2027?style=for-the-badge&logoColor=white" /></a>
+
+<br/><br/>
+
+<i>⭐ Star a repo if something here helped you.</i>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:22d3ee,50:2c5364,100:0f2027&height=130&section=footer" width="100%" />
 
 </div>
